@@ -1,2 +1,2 @@
 # CodilityTest
-Contains three solutions to problems from a challenge.
+Contains three solutions in Java 8 to problems from a challenge.
